@@ -49,13 +49,9 @@ crazyJoy挂机 = type=cron,cronexp="10 1,12 * * *",wake-system=1,timeout=20,scri
 点点券 = type=cron,cronexp="10 0,20 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_necklace.js?token=AOU6YQMWPZ652GPR6GLUQLDAYRAII
 女装盲盒 = type=cron,cronexp="35 1,23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_nzmh.js?token=AOU6YQMNGFCUVPMG2QFDEM3AYRAKO
 东东萌宠 = type=cron,cronexp="15 6-18/6 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_pet.js?token=AOU6YQOYPNFZFE2UUZS5WBLAYRANM
-
 京东金融养猪猪 = type=cron,cronexp="12 0-23/6 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_pigPet.js?token=AOU6YQLLDQICV37PKFGPMDLAYRAPM
-
 京东种豆得豆 = type=cron,cronexp="1 7-21/2 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_plantBean.js?token=AOU6YQKLFAOY7EIHAL6M643AYRARA
-
 京东保价 = type=cron,cronexp="0 2 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_price.js?token=AOU6YQLZQUDNLCQ5N7DPAF3AYRAUU
-
 京东全民开红包 = type=cron,cronexp="1 1,2,23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_redPacket.js?token=AOU6YQL3W3FXR4SHPTKJW3TAYRAW6
 闪购盲盒 = type=cron,cronexp="20 8 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_sgmh.js?token=AOU6YQPKTQLEQE62TJJW233AYRAZG
 进店领豆 = type=cron,cronexp="10 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_shop.js?token=AOU6YQKTDMSS2HCGVSNLUQTAYRA3M
@@ -63,17 +59,12 @@ crazyJoy挂机 = type=cron,cronexp="10 1,12 * * *",wake-system=1,timeout=20,scri
 天天加速 = type=cron,cronexp="8 0-23/3 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_speed.js?token=AOU6YQOETGLGZ6WWA3SAQJDAYRBB2
 京东极速版红包 = type=cron,cronexp="20 0,22 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_speed_redpocke.js?token=AOU6YQMA2HPSHFZULPQJHMTAYRBDQ
 京东极速版 = type=cron,cronexp="0 7 * * *",wake-system=1,timeout=33600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_speed_sign.js?token=AOU6YQMRACBLNYYKYCDZK7LAYRBHC
-
 明星小店 = type=cron,cronexp="0 1,21 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_star_shop.js?token=AOU6YQI2O4HT5U644VITWXDAYRBJG
 东东超市 = type=cron,cronexp="11 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_superMarket.js?token=AOU6YQOOYMF5IP5Q7QS6OILAYRBLS
 赚京豆 = type=cron,cronexp="10 0,7,23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_syj.js?token=AOU6YQNIVOJFUMAH6X553HLAYRBNQ
-
 取关京东店铺商品 = type=cron,cronexp="55 23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_unsubscribe.js?token=AOU6YQNDYAU3EAKUXUJDZDDAYRBPE
-
 家电星推官 = type=cron,cronexp="0 0 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_xtg.js?token=AOU6YQNSSGUVGVDIMUKHXFDAYRBQS
-
 家电星推官好友互助 = type=cron,cronexp="0 0 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_xtg_help.js?token=AOU6YQPHNZ7ZZL6ASIZTJKDAYRBSA
-
 618动物联萌 = type=cron,cronexp="33 0,6-23/2 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_zoo.js?token=AOU6YQKCO5YZ7UPFKW4S36TAYRBTU
 618动物联萌收集金币 = type=cron,cronexp="0-59/30 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/mantoulee/private/main/jd_zooCollect.js?token=AOU6YQJLBCAUKKLYF4BYDHTAYRBVA
 
